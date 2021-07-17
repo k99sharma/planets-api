@@ -115,7 +115,7 @@ const planetInformation = {
     yearLength: "60,190 Earth Days",
     numberOfMoons: 14,
     rings: {
-      url_exists: flase,
+      url_exists: false,
       url: "",
     },
   },

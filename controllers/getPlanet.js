@@ -10,7 +10,7 @@ const planetInformation = {
     yearLength: "88 Earth Days",
     numberOfMoons: 0,
     rings: {
-      exist: false,
+      url_exists: false,
       url: "",
     },
   },
@@ -25,7 +25,7 @@ const planetInformation = {
     yearLength: "225 Earth Days",
     numberOfMoons: 0,
     rings: {
-      exist: false,
+      url_exists: false,
       url: "",
     },
   },
@@ -40,7 +40,7 @@ const planetInformation = {
     yearLength: "365 Days",
     numberOfMoons: 1,
     rings: {
-      exist: false,
+      url_exists: false,
       url: "",
     },
   },
@@ -55,7 +55,7 @@ const planetInformation = {
     yearLength: "687 Earth Days",
     numberOfMoons: 2,
     rings: {
-      exist: false,
+      url_exists: false,
       url: "",
     },
   },
@@ -70,7 +70,7 @@ const planetInformation = {
     yearLength: "4,333 Earth Days",
     numberOfMoons: 75,
     rings: {
-      exist: true,
+      url_exists: false,
       url: "",
     },
   },
@@ -85,7 +85,7 @@ const planetInformation = {
     yearLength: "10,759 Earth Days",
     numberOfMoons: 82,
     rings: {
-      exist: true,
+      url_exists: true,
       url: "https://www.solarsystemscope.com/textures/download/2k_saturn_ring_alpha.png",
     },
   },
@@ -100,7 +100,7 @@ const planetInformation = {
     yearLength: "30,687 Earth Days",
     numberOfMoons: 27,
     rings: {
-      exist: true,
+      url_exists: false,
       url: "",
     },
   },
@@ -115,7 +115,7 @@ const planetInformation = {
     yearLength: "60,190 Earth Days",
     numberOfMoons: 14,
     rings: {
-      exist: true,
+      url_exists: flase,
       url: "",
     },
   },

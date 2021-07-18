@@ -65,8 +65,8 @@ const planetInformation = {
 
   mars: {
     name: "Mars",
-    tagline: "https://img.icons8.com/ios/50/ffffff/earth-planet.png",
-    tagline_icon: "Terrestrial Planet",
+    tagline: "Terrestrial Planet",
+    tagline_icon: "https://img.icons8.com/ios/50/ffffff/earth-planet.png",
     picture:
       "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg",
     textureUrl:

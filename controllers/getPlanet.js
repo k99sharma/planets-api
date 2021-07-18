@@ -13,6 +13,8 @@ const planetInformation = {
       url_exists: false,
       url: "",
     },
+    spaceTexture_url:
+      "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
   },
 
   venus: {
@@ -28,6 +30,8 @@ const planetInformation = {
       url_exists: false,
       url: "",
     },
+    spaceTexture_url:
+      "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
   },
 
   earth: {
@@ -43,6 +47,8 @@ const planetInformation = {
       url_exists: false,
       url: "",
     },
+    spaceTexture_url:
+      "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
   },
 
   mars: {
@@ -58,6 +64,8 @@ const planetInformation = {
       url_exists: false,
       url: "",
     },
+    spaceTexture_url:
+      "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
   },
 
   jupiter: {
@@ -73,6 +81,8 @@ const planetInformation = {
       url_exists: false,
       url: "",
     },
+    spaceTexture_url:
+      "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
   },
 
   saturn: {
@@ -88,6 +98,8 @@ const planetInformation = {
       url_exists: true,
       url: "https://www.solarsystemscope.com/textures/download/2k_saturn_ring_alpha.png",
     },
+    spaceTexture_url:
+      "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
   },
 
   uranus: {
@@ -103,6 +115,8 @@ const planetInformation = {
       url_exists: false,
       url: "",
     },
+    spaceTexture_url:
+      "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
   },
 
   neptune: {
@@ -118,6 +132,8 @@ const planetInformation = {
       url_exists: false,
       url: "",
     },
+    spaceTexture_url:
+      "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
   },
 };
 

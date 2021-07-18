@@ -26,7 +26,7 @@ https://www.ghost32-planets-api.herokuapp.com/planets/getPlanet?name={ planet na
     "numberOfMoons": 2,
     "namesake": "ROMAN GOD OF WAR",
     "rings": {
-      url_exists: false,
+      "url_exists": false,
     },
     "spaceTexture_url":
       "https://www.solarsystemscope.com/textures/download/2k_stars.jpg",

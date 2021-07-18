@@ -3,8 +3,7 @@ const planetInformation = {
   mercury: {
     name: "Mercury",
     tagline: "Terrestrial Planet",
-    tagline_icon:
-      "https://www.pngfind.com/pngs/m/58-589461_png-file-svg-planet-earth-icon-png-transparent.png",
+    tagline_icon: "https://img.icons8.com/ios/50/ffffff/earth-planet.png",
     picture:
       "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg",
     textureUrl:
@@ -25,8 +24,7 @@ const planetInformation = {
   venus: {
     name: "Venus",
     tagline: "Terrestrial Planet",
-    tagline_icon:
-      "https://www.pngfind.com/pngs/m/58-589461_png-file-svg-planet-earth-icon-png-transparent.png",
+    tagline_icon: "https://img.icons8.com/ios/50/ffffff/earth-planet.png",
     picture:
       "https://upload.wikimedia.org/wikipedia/commons/0/08/Venus_from_Mariner_10.jpg",
     textureUrl:
@@ -47,8 +45,7 @@ const planetInformation = {
   earth: {
     name: "Earth",
     tagline: "Terrestrial Planet",
-    tagline_icon:
-      "https://www.pngfind.com/pngs/m/58-589461_png-file-svg-planet-earth-icon-png-transparent.png",
+    tagline_icon: "https://img.icons8.com/ios/50/ffffff/earth-planet.png",
     picture:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1200px-The_Earth_seen_from_Apollo_17.jpg",
     textureUrl:
@@ -68,8 +65,7 @@ const planetInformation = {
 
   mars: {
     name: "Mars",
-    tagline:
-      "https://www.pngfind.com/pngs/m/58-589461_png-file-svg-planet-earth-icon-png-transparent.png",
+    tagline: "https://img.icons8.com/ios/50/ffffff/earth-planet.png",
     tagline_icon: "Terrestrial Planet",
     picture:
       "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg",
@@ -91,8 +87,7 @@ const planetInformation = {
   jupiter: {
     name: "Jupiter",
     tagline: "Gas Giant",
-    tagline_icon:
-      "https://cdn3.iconfinder.com/data/icons/space-exploration-1/64/distant_planet_space_stellar_star_exoplanet_giant_gas-512.png",
+    tagline_icon: "https://img.icons8.com/ios-glyphs/30/ffffff/planet.png",
     picture:
       "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
     textureUrl:
@@ -113,8 +108,7 @@ const planetInformation = {
   saturn: {
     name: "Saturn",
     tagline: "Gas Giant",
-    tagline_icon:
-      "https://cdn3.iconfinder.com/data/icons/space-exploration-1/64/distant_planet_space_stellar_star_exoplanet_giant_gas-512.png",
+    tagline_icon: "https://img.icons8.com/ios-glyphs/30/ffffff/planet.png",
     picture:
       "https://solarsystem.nasa.gov/system/stellar_items/image_files/38_saturn_1600x900.jpg",
     textureUrl:
@@ -136,7 +130,7 @@ const planetInformation = {
   uranus: {
     name: "Uranus",
     tagline: "Ice Giant",
-    tagline_icon: "https://image.flaticon.com/icons/png/512/23/23883.png",
+    tagline_icon: "https://img.icons8.com/ios-glyphs/30/ffffff/snowflake.png",
     picture: "https://space-facts.com/wp-content/uploads/uranus-v2.jpg",
     textureUrl:
       "https://www.solarsystemscope.com/textures/download/2k_uranus.jpg",
@@ -156,7 +150,7 @@ const planetInformation = {
   neptune: {
     name: "Neptune",
     tagline: "Ice Giant",
-    tagline_icon: "https://image.flaticon.com/icons/png/512/23/23883.png",
+    tagline_icon: "https://img.icons8.com/ios-glyphs/30/ffffff/snowflake.png",
     picture: "https://cdn.mos.cms.futurecdn.net/eNTJrysq4A6DqXncBtsRrB.jpg",
     textureUrl:
       "https://www.solarsystemscope.com/textures/download/2k_neptune.jpg",

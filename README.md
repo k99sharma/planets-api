@@ -33,7 +33,7 @@ https://www.ghost32-planets-api.herokuapp.com/planets/getPlanet?name={ planet na
   }
  }
 ```
-## How to Visualize
+## How to Visualize - Use Postman Desktop Application to visualize
 - Go to the provided workspace link
 - Fork the project
 - Open `Get Planet` request

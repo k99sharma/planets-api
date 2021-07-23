@@ -33,6 +33,13 @@ https://www.ghost32-planets-api.herokuapp.com/planets/getPlanet?name={ planet na
   }
  }
 ```
+## How to Visualize
+- Go to the provided workspace link
+- Fork the project
+- Open `Get Planet` request
+- Set query string for desired planet
+- Send the request to fetch data
+- Open `Visualize` tab to visualize data 
 
 # Reference
 ### Planet information is referenced from [https://solarsystem.nasa.gov/planets/overview/](https://solarsystem.nasa.gov/planets/overview/)

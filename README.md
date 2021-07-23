@@ -1,5 +1,6 @@
 # Planets API
 ### API created for Postman Student Summit Hackathon Project
+Project Video: ![Click here](https://www.youtube.com/watch?v=irCxZwBTKlg&t=12s)
 
 # Working
 ### Planets data can be fetched using below endpoint

@@ -35,7 +35,7 @@ https://www.ghost32-planets-api.herokuapp.com/planets/getPlanet?name={ planet na
  }
 ```
 ## How to Visualize - Use Postman Desktop Application to visualize
-- Go to the provided workspace link: [Link](https://www.postman.com/ghost32/workspace/my-workspace/collection/13225438-fc6cdd38-795a-44a4-9db4-43abca2b0372)
+- Go to the provided workspace link: [Link](https://www.postman.com/ghost32/workspace/my-workspace/collection/13225438-fc6cdd38-795a-44a4-9db4-43abca2b0372?ctx=documentation)
 - Fork the project
 - Open `Get Planet` request
 - Set query string for desired planet

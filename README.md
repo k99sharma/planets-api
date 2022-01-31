@@ -2,6 +2,9 @@
 ### API created for Postman Student Summit Hackathon Project
 Project Video: [Click here](https://www.youtube.com/watch?v=irCxZwBTKlg&t=12s)
 
+### Run 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/13225438-fc6cdd38-795a-44a4-9db4-43abca2b0372?action=collection%2Ffork&collection-url=entityId%3D13225438-fc6cdd38-795a-44a4-9db4-43abca2b0372%26entityType%3Dcollection%26workspaceId%3D026bbe34-b57f-4e51-b8bd-1d31377e89fe)
+
 # Working
 ### Planets data can be fetched using below endpoint
 

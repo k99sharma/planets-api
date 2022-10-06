@@ -1,11 +1,29 @@
-# Planets API
-### API created for Postman Student Summit Hackathon Project
-Project Video: [Click here](https://www.youtube.com/watch?v=irCxZwBTKlg&t=12s)
+<h1 align='center'>Planets API</h1>
 
-### Run 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/13225438-fc6cdd38-795a-44a4-9db4-43abca2b0372?action=collection%2Ffork&collection-url=entityId%3D13225438-fc6cdd38-795a-44a4-9db4-43abca2b0372%26entityType%3Dcollection%26workspaceId%3D026bbe34-b57f-4e51-b8bd-1d31377e89fe)
+<p align='center'>
+   <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/github/license/k99sharma/planets-api"/>
+  </a>
+    
+  <a>
+    <img alt="tag" src="https://img.shields.io/github/v/tag/k99sharma/planets-api" />
+  </a>
+</p>
 
-# Working
+<p align='center'>
+  🤩 REST API created for Postman Student Summit Hackathon. You can fetch data about different planets in our Solar System.
+</p>
+
+<br />
+
+![Screenshot (33)](https://user-images.githubusercontent.com/54969439/194230959-9e0f64b5-b82f-4368-ab5c-69a8c652b9bb.png)
+
+<br />
+
+## Tech Stacks & Open-source libraries
+- [ExpressJs]() and [NodeJs]() is used to created the API.
+
+## Working
 ### Planets data can be fetched using below endpoint
 
 ```javascript
@@ -45,6 +63,29 @@ https://www.ghost32-planets-api.herokuapp.com/planets/getPlanet?name={ planet na
 - Send the request to fetch data
 - Open `Visualize` tab to visualize data 
 
-# Reference
+## Reference
 ### Planet information is referenced from [https://solarsystem.nasa.gov/planets/overview/](https://solarsystem.nasa.gov/planets/overview/)
 ### Planet textures are referenced from [https://www.solarsystemscope.com/textures/](https://www.solarsystemscope.com/textures/)
+
+<br />
+
+## Find this repository userful? :heart:
+Star the repository. 🌟
+<br>Also, __[Follow me](https://github.com/k99sharma)__ on GitHub for my next creations! 😎
+
+# LICENSE
+```xml
+Designed and developed by 2021 (Kalash Sharma)
+
+Licensed under the MIT License, (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   https://opensource.org/licenses/MIT
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```

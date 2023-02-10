@@ -27,7 +27,7 @@
 ### Planets data can be fetched using below endpoint
 
 ```javascript
-https://www.ghost32-planets-api.herokuapp.com/planets/getPlanet?name={ planet name }
+https://planets-17f2.onrender.com/planets/getPlanet?name={ planet name }
 ```
 
 ## Response Format
@@ -59,6 +59,7 @@ https://www.ghost32-planets-api.herokuapp.com/planets/getPlanet?name={ planet na
 - Go to the provided workspace link: [Link](https://www.postman.com/ghost32/workspace/my-workspace/collection/13225438-fc6cdd38-795a-44a4-9db4-43abca2b0372?ctx=documentation)
 - Fork the project
 - Open `Get Planet` request
+- Copy postman test script from project folder to postman request test
 - Set query string for desired planet
 - Send the request to fetch data
 - Open `Visualize` tab to visualize data 
